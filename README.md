@@ -10,7 +10,9 @@ Docker GNU Fortran, gdb and make over Ubuntu
 
 ## Suported Tags
 
-[10.3, latest - (gfortran 10.3.1_git20211027-r0 over alpine:3.15) (Dockerfile)](https://github.com/sunt05/alpine-gfortran/blob/master/10.3/Dockerfile)
+[11.2 - (gfortran 11.2.1_git20220219-r2 over alpine:3.16) (Dockerfile)](https://github.com/sunt05/alpine-gfortran/blob/master/10.3/Dockerfile)
+
+[10.3 - (gfortran 10.3.1_git20211027-r0 over alpine:3.15) (Dockerfile)](https://github.com/sunt05/alpine-gfortran/blob/master/10.3/Dockerfile)
 
 [10.2 - (gfortran 10.2.1_pre1-r3 over alpine:3.13) (Dockerfile)](https://github.com/sunt05/alpine-gfortran/blob/master/10.2/Dockerfile)
 
